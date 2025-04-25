@@ -278,7 +278,10 @@ section {
   border: rgb(255, 255, 255) 0.1rem solid;
 }
 
+/* css */
+
 .btn-container {
+  /* css */
   gap: 1rem;
 }
 
